@@ -1,0 +1,65 @@
+.body {
+    background: rgb(198, 213, 37);
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-nav>a {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navbar {
+    background-color: rgba(219, 167, 94, 0.863);
+}
+
+.footer {
+    background-color: rgba(219, 167, 94, 0.863);
+}
+
+#donate :hover {
+    color: rgba(219, 167, 94, 0.863);
+    color: inherit;
+
+}
+
+#dogsPic {
+    padding-top: 10px;
+    width: 40%;
+}
+
+body {
+    background: #f5d9d5;
+    font-family: "Nunito", sans-serif;
+}
+
+.h2 {
+    text-align: center;
+}
+
+#btnMid {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#midNav {
+    background: rgba(255, 233, 155, 0.786)
+}
+
+#quote {
+    background-image: url("gray-w.svg");
+    background-repeat: repeat;
+}
+
+#articles {
+    background: rgba(255, 233, 155, 0.786);
+    font-family: 'Handlee', cursive;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#logo {
+    background: rgba(249, 217, 102, 0.786)
+}
